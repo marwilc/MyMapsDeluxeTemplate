@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Maps Deluxe</string>
+    <string name="go_to_home">Go To home</string>
+    <string name="go_to_work">Go To work</string>
+    <string name="go_to_cinema">Go To cinema</string>
+    <string name="go_to_park">Go To park</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_work">Map</string>
+    <string name="title_activity_maps_cinema">Map</string>
+    <string name="title_activity_maps_park">Map</string>
+</resources>
